@@ -35,7 +35,7 @@ const foodILike = [
     name: "deopbab",
     image:
       "https://scontent-frx5-1.cdninstagram.com/vp/83afd4ed545a501aeb072ac0e61d642d/5DEE7C68/t51.2885-15/e35/65135438_694165877697212_6785317496413022206_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&ig_cache_key=MjA3ODMwOTE1NjU2NjU3NzA5NQ%3D%3D.2",
-    rating: 2.5
+    rating: 2.6
   }
 ];
 
