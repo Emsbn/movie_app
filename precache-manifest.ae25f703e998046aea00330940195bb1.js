@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c542c765c33774f99b6aaff62de1aa3",
+    "revision": "c75eb9717a857bee4bd71300b039ba50",
     "url": "/react-moive-app/index.html"
   },
   {
-    "revision": "b728a8bfcc91d4aa4fb5",
+    "revision": "67cb39537ed02574383e",
     "url": "/react-moive-app/static/css/main.044a078d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-moive-app/static/js/2.6e87735a.chunk.js"
   },
   {
-    "revision": "b728a8bfcc91d4aa4fb5",
-    "url": "/react-moive-app/static/js/main.b535fa53.chunk.js"
+    "revision": "67cb39537ed02574383e",
+    "url": "/react-moive-app/static/js/main.b5a9e9f0.chunk.js"
   },
   {
     "revision": "d0b21b0db904d4180e36",
