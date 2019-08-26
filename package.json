@@ -6,15 +6,16 @@
     "axios": "^0.19.0",
     "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "clean": "rm -rf node_modules/gh-pages/.cache"
   },
   "eslintConfig": {
     "extends": "react-app"
